@@ -1,0 +1,6 @@
+{
+  "name": "Bell Lyra Simulator",
+  "description": "แอปพลิเคชันจำลองเบลไลลา (Bell Lyra) ระดับมืออาชีพ ออกแบบรองรับมือถือ แยกหน้าเครื่องเล่นและหน้าปรับเสียง เล่นเพลงสาธิต และโหมดฝึกเล่น",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
